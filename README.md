@@ -7,4 +7,4 @@ Gtk2/3 for XFCE4
 <P>move to /usr/share/themes     for all users</P>
 <P>select Lila-Gtk theme </P>
 <P>Enjoy.</P>
-<img src="https://github.com/ilnanny/Lila-HD-icon-theme/blob/master/Lila-HD-Icon-theme-3.0-Preview.png?raw=true"Lila HD icon Theme Master">
+<img src="https://github.com/ilnanny/Lila-Gtk/blob/master/Lila-Gtk.png?raw=true?"Lila-Gtk">
