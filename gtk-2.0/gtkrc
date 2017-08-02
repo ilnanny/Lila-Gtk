@@ -1,5 +1,5 @@
-# Theme:       Breeze-gtk
-# Description: Breeze theme for GTK+2.0
+# Theme:       Lila-Gtk
+# Description: Lila-Gtk theme for GTK+2.0
 
 gtk-color-scheme = "text_color:#31363b"
 gtk-color-scheme = "base_color:#fcfcfc"
